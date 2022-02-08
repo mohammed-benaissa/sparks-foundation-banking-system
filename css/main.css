@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+}
+.conteneur{
+    height: 100% ;
+
+}
+.ligne{
+    height: 100% ;
+}
+
+.ligne1{
+    height: 100% ;
+}
+
+@keyframes transitionIn{
+    from{
+        opacity: 0;
+        transform: rotateX(-10deg);
+
+    }
+    to{
+        opacity: 1;
+        transform: rotateX(0);
+
+    }
+}
+body{
+    animation: transitionIn 0.55s;
+}
