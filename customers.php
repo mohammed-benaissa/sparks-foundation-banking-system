@@ -46,7 +46,7 @@
     <div class="row">
           <div class="col-2 text-center "><a class="btn btnh "  href="index.php" role="button">Home Page</a></div>
           <div class="col-8"></div>
-          <div class="col-2"><a class="btn btnh "  href="index.php" role="button">Transactions Page</a></div>
+          <div class="col-2"><a class="btn btnh "  href="transactions.php" role="button">Transactions Page</a></div>
         </div>
       <div class="row">
         <div class="col-4"></div>
