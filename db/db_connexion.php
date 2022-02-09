@@ -1,10 +1,10 @@
 <?php  
 
-$sname = "localhost";
-$uname = "root";
-$password = "";
+$sname = "remotemysql.com";
+$uname = "05Xtr7VY0s";
+$password = "GJYzoMPOZ8";
 
-$db_name = "internship";
+$db_name = "05Xtr7VY0s";
 
 $conn  = mysqli_connect($sname, $uname, $password, $db_name);
 
